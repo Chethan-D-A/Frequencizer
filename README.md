@@ -29,8 +29,8 @@ Frequencizer allows users to generate pure tones, experiment with binaural beats
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/frequencizer.git
-cd frequencizer
+git clone https://github.com/Chethan-D-A/Frequencizer.git
+cd Frequencizer
 ```
 
 Install dependencies:
