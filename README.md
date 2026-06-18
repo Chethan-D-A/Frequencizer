@@ -112,6 +112,17 @@ Claims regarding frequency healing, DNA repair, intelligence enhancement, or sim
 
 ---
 
+## Platform Support
+
+Tested on:
+- Windows
+
+Expected to work on:
+- Linux
+- macOS
+
+---
+
 ## License
 
 Released under the MIT License.
